@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lintao Ye / Site Title"
+title                    : "Lintao Ye"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
